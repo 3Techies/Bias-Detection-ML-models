@@ -1,7 +1,7 @@
 # Bias-Detection-ML-models
 This is a group project from 3 sophomore year undergrads at IIT Patna.
 <hr>
-The project aims to Find, Analyse and Mitigate Biases in an ML model.
+The project aims to Find, Analyse and Mitigate Biases in  ML models.
 <br>
 <br>
 Perfect. Here’s a **clear, realistic 12-week workflow** for the **Bias Detection in AI Models** project, designed for **3 CS sophomores**, with **no panic weeks** and a strong finish.
