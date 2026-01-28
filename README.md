@@ -1,5 +1,5 @@
 # Bias-Detection-ML-models
-This is a group project from 3 sophomore year undergrads at IIT Patna.
+This is a group project from 3 sophomore year undergrads at IIT Patna. --sanjay's version
 <hr>
 The project aims to Find, Analyse and Mitigate Biases in  ML models.
 <br>
