@@ -238,3 +238,9 @@ Think of this as a **project GPS**.
 ---
 <br>
 THANK YOU
+
+
+
+**Actual README file contents**
+The concepts of bias and variance beacuse it helps in Model Selection, Hyperparameter Tuning, Model Evaluation, Error Analysis and Ensemble Learning.
+
