@@ -22,11 +22,11 @@ POSITIVE_LABEL = 1   # or "Yes", depending on dataset
 # =========================
 
 # Sensitive attribute to check bias on
-SENSITIVE_ATTRIBUTE = "gender"
+SENSITIVE_ATTRIBUTE = "person_gender"
 
 # Define groups explicitly
-PRIVILEGED_GROUP = "Male"
-UNPRIVILEGED_GROUP = "Female"
+PRIVILEGED_GROUP = "male"
+UNPRIVILEGED_GROUP = "female"
 
 
 # =========================
