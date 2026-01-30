@@ -1,9 +1,9 @@
 # Bias-Detection-ML-models
-This is a group project from 3 sophomore year undergrads at IIT Patna.
+This is a group project from 3 sophomore year undergrads at IIT Patna. --sanjay's version
 <hr>
 The project aims to Find, Analyse and Mitigate Biases in  ML models.
 <br>
-FLAG{mohit_was_here}
+DAKSH IS A DONKEY!!!
 <br>
 Perfect. Here’s a **clear, realistic 12-week workflow** for the **Bias Detection in AI Models** project, designed for **3 CS sophomores**, with **no panic weeks** and a strong finish.
 
